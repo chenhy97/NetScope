@@ -1,0 +1,9 @@
+{
+    "controller": {
+        "volumn": 50,
+        "interval": 30
+    },
+    "time": {
+        "init": 60
+    }
+}
